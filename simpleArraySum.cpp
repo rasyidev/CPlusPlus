@@ -15,5 +15,7 @@ int main (){
     int n;
     cin >> n;
 cout << simpleArraySum(n);
+    cout << endl;
+    cout << "Done";
 
 }
